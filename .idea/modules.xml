@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../MedTech/.idea/MedTech.iml" filepath="$PROJECT_DIR$/../../MedTech/.idea/MedTech.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MedicalPDF_Expert/.idea/MedicalPDF_Expert.iml" filepath="$PROJECT_DIR$/../MedicalPDF_Expert/.idea/MedicalPDF_Expert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/RBI_App.iml" filepath="$PROJECT_DIR$/../.idea/RBI_App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/langchain-ask-pdf.iml" filepath="$PROJECT_DIR$/.idea/langchain-ask-pdf.iml" />
+    </modules>
+  </component>
+</project>
